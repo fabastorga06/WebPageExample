@@ -1,0 +1,21 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+  }
+
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
+button {
+    color: black;
+    font-family: Arial;
+    font-size: 200%;
+}
